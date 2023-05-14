@@ -3,4 +3,4 @@ class CreateTextDto {
     name: string;
   }
 
-  export default CreateTextDto;
+export default CreateTextDto;
